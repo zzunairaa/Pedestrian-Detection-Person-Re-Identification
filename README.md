@@ -99,21 +99,6 @@ The notebook will download:
 | Model weights | [OneDrive – PRW_weights](https://liveunibo-my.sharepoint.com/my?id=%2Fpersonal%2Fzunaira_zunaira3_studio_unibo_it%2FDocuments%2FPRW_weights&viewid=270ba629-e06a-47d5-a821-4ea87c6fefe0) |
 | Cached results | [OneDrive – PRW_results](https://liveunibo-my.sharepoint.com/my?id=%2Fpersonal%2Fzunaira_zunaira3_studio_unibo_it%2FDocuments%2FPRW_results&viewid=270ba629-e06a-47d5-a821-4ea87c6fefe0) |
 
-#### Manual download steps (OneDrive)
-
-If `gdown` fails or you prefer to download manually, follow these steps:
-
-1. Click the relevant OneDrive link from the table above
-2. In OneDrive, click **"Download"** (top toolbar) to download the folder as a `.zip`
-3. Unzip the folder locally
-4. Upload the unzipped folder to your Colab session:
-   - Either drag and drop into the Colab file browser (left sidebar → 📁 icon)
-   - Or use the Colab upload cell:
-     ```python
-     from google.colab import files
-     files.upload()  # then unzip manually
-     ```
-5. Make sure the folders land at `/content/PRW_weights/` and `/content/PRW_results/` respectively
 
 ### 4. Run the notebook
 
