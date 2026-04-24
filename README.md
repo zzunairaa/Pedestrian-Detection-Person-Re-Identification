@@ -95,7 +95,7 @@ The notebook will download:
 
 | Folder | OneDrive Link |
 |--------|---------------|
-| PRW dataset | [OneDrive – PRW]([https://liveunibo-my.sharepoint.com/my?id=%2Fpersonal%2Fzunaira_zunaira3_studio_unibo_it%2FDocuments%2FPRW&viewid=270ba629-e06a-47d5-a821-4ea87c6fefe0](https://liveunibo-my.sharepoint.com/:f:/g/personal/zunaira_zunaira3_studio_unibo_it/IgDJ6eaURiBTR6FrXeqr6rRwAXuXJnLMN-FDsw-sj559dtM?e=2qOtgI)) |
+| PRW dataset | [OneDrive – PRW](https://liveunibo-my.sharepoint.com/:f:/g/personal/zunaira_zunaira3_studio_unibo_it/IgDJ6eaURiBTR6FrXeqr6rRwAXuXJnLMN-FDsw-sj559dtM?e=S6BHUg) |
 | Model weights | [OneDrive – PRW_weights](https://liveunibo-my.sharepoint.com/my?id=%2Fpersonal%2Fzunaira_zunaira3_studio_unibo_it%2FDocuments%2FPRW_weights&viewid=270ba629-e06a-47d5-a821-4ea87c6fefe0) |
 | Cached results | [OneDrive – PRW_results](https://liveunibo-my.sharepoint.com/my?id=%2Fpersonal%2Fzunaira_zunaira3_studio_unibo_it%2FDocuments%2FPRW_results&viewid=270ba629-e06a-47d5-a821-4ea87c6fefe0) |
 
