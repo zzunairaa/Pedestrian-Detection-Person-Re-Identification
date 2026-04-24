@@ -37,10 +37,10 @@ This project implements a **two-stage Person Search pipeline** on the PRW datase
 ```
 .
 ├── ML4CV_zizouff.ipynb       ← Main notebook (all code + explanations)
-├── eval_function.py          ← Official evaluator (unchanged from course repo)
 ├── README.md                 ← This file
 ├── PRW_weights/              ← Model weights (see download instructions below)
 │   ├── detector_final.pt
+    ├── eval_function.py          ← Official evaluator (unchanged from course repo)
 │   ├── reid_convnext_ce_triplet_40ep_best.pt
 │   ├── reid_convnext_arcface_40ep_best.pt
 │   ├── reid_convnext_infonce_40eps_best.pt
