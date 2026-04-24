@@ -1,5 +1,5 @@
 # Person Search on the PRW Dataset
-### Machine Learning for Computer Vision — Assignment 2025/2026
+### Machine Learning for Computer Vision : Assignment 2025/2026
 ### University of Bologna
 
 ---
