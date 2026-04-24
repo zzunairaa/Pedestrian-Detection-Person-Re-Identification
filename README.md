@@ -36,7 +36,7 @@ This project implements a **two-stage Person Search pipeline** on the PRW datase
 
 ```
 .
-├── ML4CV_zizouff.ipynb       ← Main notebook (all code + explanations)
+├── ML4CV_Hasnain_Zunaira.ipynb       ← Main notebook (all code + explanations)
 ├── README.md                 ← This file
 ├── PRW_weights/              ← Model weights (see download instructions below)
 │   ├── detector_final.pt
@@ -65,7 +65,7 @@ This project implements a **two-stage Person Search pipeline** on the PRW datase
 
 ### 1. Open the notebook on Google Colab
 
-Upload `ML4CV_zizouff.ipynb` to Colab, or open it directly from your Google Drive.
+Upload `ML4CV_Hasnain_Zunaira.ipynb` to Colab, or open it directly from your Google Drive.
 
 ### 2. Download the PRW dataset
 
