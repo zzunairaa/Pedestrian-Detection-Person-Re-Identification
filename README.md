@@ -36,7 +36,7 @@ This project implements a **two-stage Person Search pipeline** on the PRW datase
 
 ```
 
-├── ML4CV_Hasnain_Zunaira.ipynb       ← Main notebook (all code + explanations)
+├── main.ipynb       ← Main notebook (all code + explanations)
 ├── README.md                 ← This file
 ├── PRW_weights/              ← Model weights (see download instructions below)
 │   ├── detector_final.pt
@@ -48,6 +48,7 @@ This project implements a **two-stage Person Search pipeline** on the PRW datase
 │   └── reid_resnet50_ce_triplet_40ep_best.pt
 └── PRW_results/              ← Cached evaluation results (.pkl files)
     ├── baseline_convnext_ce_triplet.pkl
+    ├── inference_all_models.pkl
     ├── ablation_A_loss_results.pkl
     ├── ablation_B_backbone_results.pkl
     ├── ablation_C_final_results.pkl
@@ -65,7 +66,7 @@ This project implements a **two-stage Person Search pipeline** on the PRW datase
 
 ### 1. Open the notebook on Google Colab
 
-Upload `ML4CV_Hasnain_Zunaira.ipynb` to Colab, or open it directly from your Google Drive.
+Upload `main.ipynb` to Colab, or open it directly from your Google Drive.
 
 ### 2. Download the PRW dataset
 
