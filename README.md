@@ -6,7 +6,7 @@
 
 **Full Name:** Zunaira Hasnain  
 **Institutional Email:** zunaira.zunaira3@studio.unibo.it  
-**Graded by the instructor:** 10/10
+Graded by the instructor: 10/10
 ---
 
 ## Overview
