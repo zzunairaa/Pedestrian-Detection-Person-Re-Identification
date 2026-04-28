@@ -4,10 +4,9 @@
 
 ---
 
-**Student ID:** 0001187294  
 **Full Name:** Zunaira Hasnain  
 **Institutional Email:** zunaira.zunaira3@studio.unibo.it  
-
+**Graded by the instructor:** 10/10
 ---
 
 ## Overview
