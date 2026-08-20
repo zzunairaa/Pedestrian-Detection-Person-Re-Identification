@@ -1,12 +1,4 @@
 # Person Search on the PRW Dataset
-### Machine Learning for Computer Vision : Assignment 2025/2026
-### University of Bologna
-
----
-
-**Full Name:** Zunaira Hasnain  
-**Institutional Email:** zunaira.zunaira3@studio.unibo.it  
-Graded by the instructor: 10/10
 ---
 
 ## Overview
